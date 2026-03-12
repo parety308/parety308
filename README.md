@@ -125,7 +125,25 @@ Chittagong University of Engineering and Technology
 </p>
 
 ---
+## 🚀 Featured Projects
 
+<p align="center">
+
+<a href="https://github.com/parety308">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parety308&repo=LocalChefBazaar&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/parety308">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parety308&repo=ZapShift&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/parety308">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parety308&repo=HomeNest&theme=tokyonight" />
+</a>
+
+</p>
+
+---
 # 📈 Contribution Graph
 
 <p align="center">
