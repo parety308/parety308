@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" height="80%" alt="Md Parvez Hasan Banner"/>
+  <img src="banner.png" alt="Md Parvez Hasan Banner" width="100%" height="400">
 </p>
 <h1 align="center">Hi 👋, I'm Md Parvez Hasan</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Next.js</h3>
