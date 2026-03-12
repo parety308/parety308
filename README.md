@@ -31,13 +31,25 @@
 
 # 👨‍💻 About Me
 
-- 🔭 Currently working on **CourseHub**
-- 🌱 Learning **Advanced Next.js & System Design**
-- 💬 Ask me about **React, Next.js, Node.js**
-- 📫 Reach me at **parvezyesrat17032024@gmail.com**
-- 🌍 Portfolio:  
-  **https://my-portfolio-orpin-alpha-41.vercel.app/**
+🎓 **BSc in Computer Science & Engineering**  
+Chittagong University of Engineering and Technology
 
+💻 **Full Stack Developer (MERN Stack)** passionate about building modern, scalable web applications using **React, Next.js, Node.js, and MongoDB**.
+
+🚀 Currently building **CourseHub** — a modern course management platform with **Next.js, Firebase, and TailwindCSS**.
+
+🌱 Currently learning **Advanced Next.js, System Design, and Scalable Backend Architecture**.
+
+🔍 Actively seeking **Entry-Level / Junior Full Stack Developer opportunities** where I can contribute, learn, and grow.
+
+📍 Based in **Chattogram, Bangladesh**
+
+💬 Ask me about **React, Next.js, Node.js, and modern web development**
+
+📫 Reach me at **parvezyesrat17032024@gmail.com**
+
+🌐 Portfolio  
+**https://my-portfolio-orpin-alpha-41.vercel.app**
 ---
 
 # 🚀 Tech Stack
