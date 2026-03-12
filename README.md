@@ -141,6 +141,21 @@ Chittagong University of Engineering and Technology
 </p>
 
 ---
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parety308&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parety308&theme=tokyonight"/>
+</p>
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+
+> "First, solve the problem. Then, write the code."  
+> — John Johnson
+
+</p>
+---
 
 # 👀 Profile Views
 
