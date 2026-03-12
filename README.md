@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Md Parvez Hasan Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Md Parvez Hasan</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Next.js</h3>
 
