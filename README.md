@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BANNER-2.png" alt="Md Parvez Hasan Banner" width="100%">
+  <img src="banner-me.png" alt="Md Parvez Hasan Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Parvez Hasan</h1>
