@@ -31,27 +31,37 @@
 
 # 👨‍💻 About Me
 
+Hi there! I'm **Md Parvez Hasan** — a passionate **Full Stack Developer (MERN Stack)** from **Bangladesh** who loves building modern, scalable, and user-friendly web applications.
+
 🎓 **BSc in Computer Science & Engineering**  
 Chittagong University of Engineering and Technology
 
-💻 **Full Stack Developer (MERN Stack)** passionate about building modern, scalable web applications using **React, Next.js, Node.js, and MongoDB**.
+🚀 Currently building **CourseHub** — a modern course management platform using **Next.js, Firebase, and TailwindCSS**
 
-🚀 Currently building **CourseHub** — a modern course management platform with **Next.js, Firebase, and TailwindCSS**.
+💻 Skilled in **React, Next.js, Node.js, Express.js, MongoDB, JavaScript, and TypeScript**
 
-🌱 Currently learning **Advanced Next.js, System Design, and Scalable Backend Architecture**.
+🌱 Currently exploring **Advanced Next.js, System Design, and Scalable Backend Development**
 
-🔍 Actively seeking **Entry-Level / Junior Full Stack Developer opportunities** where I can contribute, learn, and grow.
+🎯 Actively seeking **Entry-Level / Junior Full Stack Developer opportunities** to contribute, learn, and grow in a professional development team.
 
 📍 Based in **Chattogram, Bangladesh**
 
-💬 Ask me about **React, Next.js, Node.js, and modern web development**
+💬 Ask me about **React, Next.js, Node.js, and MERN stack development**
 
 📫 Reach me at **parvezyesrat17032024@gmail.com**
 
 🌐 Portfolio  
-**https://my-portfolio-orpin-alpha-41.vercel.app**
+**https://my-portfolio-orpin-alpha-41.vercel.app/**
 ---
+# ⚡ Quick Highlights
 
+✔ MERN Stack Developer  
+✔ 3+ Full Stack Projects  
+✔ Competitive Programming (LeetCode / Codeforces)  
+✔ Strong in React Ecosystem  
+✔ Passionate about clean UI & scalable backend systems
+
+---
 # 🚀 Tech Stack
 
 ### 👨‍💻 Languages
