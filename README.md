@@ -52,7 +52,7 @@ Chittagong University of Engineering and Technology
 
 📍 Based in **Chattogram, Bangladesh**
 
-📫 Email: **parvezyesrat17032024@gmail.com**
+📫 Email: **md.parvez.hasan.dev@gmail.com**
 
 🌐 Portfolio  
 **https://my-portfolio-orpin-alpha-41.vercel.app/**
