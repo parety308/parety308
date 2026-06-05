@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md%20Parvez%20Hasan&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descSize=20&descAlignY=58"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer+(MERN+Stack);⚡+Building+Scalable+Web+Applications;💡+React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;🌱+Always+Learning+%2C+Always+Building" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
