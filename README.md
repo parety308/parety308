@@ -13,14 +13,19 @@
   <a href="https://linkedin.com/in/md-parvez-hasan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+ <p align="center">
   <a href="mailto:md.parvez.hasan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  > 💡 **Explore all of my projects, skills, and experience on my portfolio:**  
-> 🌐 **https://my-portfolio-orpin-alpha-41.vercel.app**
+
+  <a href="https://my-portfolio-orpin-alpha-41.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
   <a href="https://leetcode.com/parety2205">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+</p>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=parety308&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
